@@ -1,2 +1,9 @@
 data/
 .ipynb_checkpoints/
+models/
+JM_test_GARNN.ipynb
+brist1d.zip
+kaggle_ex_RF.ipynb
+notes_reunion_equipe
+result/submission_xgboost.csv
+xgboost.ipynb
